@@ -10,7 +10,7 @@ Welcome to a curated collection of powerful downloadable applications and softwa
 
 ## 🙏 Contributing
 
-Got an <b>idea</b>? Want to add something awesome? <a href="https://github.com/ChampyTech/useful-apps" target="_blank">Open an issue or a pull request on GitHub!</a>
+Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">Open an issue or a pull request on GitHub!</a>
 
 ## ⚠️ Disclaimer
 
