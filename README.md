@@ -1,5 +1,10 @@
 # 🔨 A Curated List of Useful Apps
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 <a href="https://champytech.github.io/useful-apps/">🔗 Visit website</a>
 
 Welcome to a curated collection of powerful downloadable applications and software for your computer and mobile devices. <b>Desktop apps, mobile apps, and installable programs</b>: carefully selected tools that enhance your productivity, creativity, and digital workflow. Whether you're a student, professional, or tech enthusiast, these applications are designed to unlock your device's <b>full potential and capabilities</b>. Simply download and install to access these feature-rich programs.
