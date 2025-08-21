@@ -19,7 +19,19 @@ A curated list of useful applications and software you can download and install 
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
+- [Productivity & Task Management](#productivity--task-management)
+- [File Management & Storage](#file-management--storage)
+- [Content Creation](#content-creation)
+- [Utilities](#utilities)
+- [Development](#development)
+- [Security & Privacy](#security--privacy)
+- [Educational](#educational)
+- [Games](#games)
+- [Health & Wellness](#health--wellness)
+- [Reading](#reading)
+
 ### Productivity & Task Management
+
 - [Google Calendar](https://calendar.google.com/): Scheduling app with event management and smart suggestions integration
 - [Notion](https://www.notion.so/): All-in-one workspace combining notes, databases, and project management
 - [Google Keep Notes](https://keep.google.com/): Note-taking app with voice memos, lists, and collaborative features
@@ -34,6 +46,7 @@ A curated list of useful applications and software you can download and install 
 - [Forest](https://www.forestapp.cc/): Pomodoro timer app that grows virtual trees for focused work sessions
 
 ### File Management & Storage
+
 - [Google Files](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files): File manager with storage cleaning and offline file sharing features
 - [Mega](https://mega.nz/): Cloud storage service with end-to-end encryption and large capacity
 - [Send Anywhere](https://send-anywhere.com/): File sharing app for transferring files across devices without cloud storage
@@ -45,6 +58,7 @@ A curated list of useful applications and software you can download and install 
 - [7-Zip](https://www.7-zip.org/): File archiver with high compression ratio and wide format support
 
 ### Content Creation
+
 - [Adobe Acrobat](https://www.adobe.com/acrobat/): Professional PDF editor for creating, editing, and sharing documents securely
 - [Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html): Mobile document scanner converting physical papers into high-quality PDFs
 - [Canva](https://www.canva.com/): Graphic design platform for creating presentations, social media, and prints
@@ -53,6 +67,7 @@ A curated list of useful applications and software you can download and install 
 - [paint.net](https://www.getpaint.net/): Image editing software with layers, effects, and plugin architecture
 
 ### Utilities
+
 - [Microsoft Clipchamp](https://clipchamp.com/): Video editing software with templates and cloud-based processing
 - [HandBrake](https://handbrake.fr/): Video transcoder for converting multimedia files between formats
 - [4K Video Downloader](https://www.4kdownload.com/): Video downloading tool for saving online content in high quality
@@ -105,6 +120,7 @@ A curated list of useful applications and software you can download and install 
 - [Crowdsource](https://crowdsource.google.com/): Google's platform for contributing to AI training through micro-tasks
 
 ### Development
+
 - [Visual Studio](https://visualstudio.microsoft.com/): Integrated development environment for various programming languages
 - [Visual Studio Code](https://code.visualstudio.com/): Lightweight code editor with extensions and debugging support
 - [GitHub Desktop](https://desktop.github.com/): Git client with visual interface for repository management
@@ -114,11 +130,13 @@ A curated list of useful applications and software you can download and install 
 - [Flowgorithm](https://flowgorithm.org/): Visual programming language for creating and executing flowcharts
 
 ### Security & Privacy
+
 - [Bitwarden](https://bitwarden.com/): Open-source password manager with secure vault and cross-platform sync
 - [Authy](https://authy.com/): Two-factor authentication app providing secure login codes and backups
 - [ScreenZen](https://play.google.com/store/apps/details?id=com.screenzen): Screen time control app with app blocking and usage monitoring
 
 ### Educational
+
 - [Khan Academy](https://www.khanacademy.org/): Free educational platform with courses, videos, and practice exercises
 - [Anki](https://apps.ankiweb.net/): Spaced repetition flashcard app for efficient learning and memorization
 - [Knowunity](https://www.knowunity.com/): Student learning platform with study materials and peer collaboration
@@ -132,6 +150,7 @@ A curated list of useful applications and software you can download and install 
 - [Solar System Scope](https://play.google.com/store/apps/details?id=air.com.eu.inove.sss2): 3D astronomy app exploring planets, moons, and celestial mechanics
 
 ### Games
+
 - [Chess](https://www.chess.com/): Online chess platform with puzzles, lessons, and multiplayer matches
 - [GeoGuessr](https://www.geoguessr.com/): Geography guessing game using Street View images from around the world
 - [NYT Games](https://www.nytimes.com/games): Collection of New York Times puzzles including Wordle and crosswords
@@ -140,12 +159,14 @@ A curated list of useful applications and software you can download and install 
 - [ASolver](https://play.google.com/store/apps/details?id=ru.bnice.asolver): Rubik's cube solver using camera recognition for step-by-step solutions
 
 ### Health & Wellness
+
 - [Daylio](https://daylio.net/): Mood tracking app with statistics and insights for mental wellness
 - [Loop Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits): Minimalist habit tracking app with simple interface and statistics
 - [Bend: Stretching & Flexibility](https://play.google.com/store/apps/details?id=com.bowerydigital.bend): Guided stretching and flexibility training app for improved mobility
 - [Antistress](https://play.google.com/store/apps/details?id=com.JindoBlu.Antistress): Relaxation app with interactive stress-relief activities and mini-games
 
 ### Reading
+
 - [Goodreads](https://www.goodreads.com/): Book recommendation platform with reviews, ratings, and reading lists
 - [Instapaper](https://www.instapaper.com/): Read-later app for saving articles and web content for offline reading
 - [Omnivore](https://omnivore.app/): Read-later app for saving articles with highlighting and note-taking
