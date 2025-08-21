@@ -27,4 +27,6 @@ Open a pull request or an issue. Even small contributions are welcome!
 
 By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the applications or their developers mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Updates to the applications, their features, pricing, availability, or functionality are outside the control of this project. Users download and use applications at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from using any of the recommended applications, including but not limited to data loss, security vulnerabilities, or compatibility problems. Always verify application legitimacy and review privacy policies before installation.
 
-Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b>
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
