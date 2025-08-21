@@ -7,6 +7,8 @@
 
 A curated list of useful applications and software you can download and install on your devices: desktop programs, mobile apps, and powerful tools. Perfect for productivity, creativity, and enhanced functionality.
 
+📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
 <b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
 
 <b>Important note</b>: This site only includes downloadable applications and software that need to be installed on your device. For <b>browser-based tools and websites</b> that work instantly without downloads, check out <a href="https://champytech.github.io/useful-websites/">A Curated List of Useful Websites</a>.
