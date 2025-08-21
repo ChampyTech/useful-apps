@@ -9,10 +9,15 @@ A curated list of useful applications and software you can download and install 
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
-<b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
-
 > [!NOTE]
 > This repository only includes downloadable applications and software that need to be installed on your device. For browser-based tools and websites that work instantly without downloads, check out [A Curated List of Useful Websites](https://github.com/ChampyTech/useful-websites).
+
+## 🔨 Apps
+
+### Table of Contents
+
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
 ## 🙏 Contributing
 
