@@ -14,10 +14,10 @@ A curated list of useful applications and software you can download and install 
 
 ## 🔨 Apps
 
-### Table of Contents
-
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
+### Table of Contents
 
 - [Productivity & Task Management](#productivity--task-management)
 - [File Management & Storage](#file-management--storage)
