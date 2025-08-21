@@ -5,7 +5,7 @@
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
 </p>
 
-Welcome to a curated collection of powerful downloadable applications and software for your computer and mobile devices. <b>Desktop apps, mobile apps, and installable programs</b>: carefully selected tools that enhance your productivity, creativity, and digital workflow. Whether you're a student, professional, or tech enthusiast, these applications are designed to unlock your device's <b>full potential and capabilities</b>. Simply download and install to access these feature-rich programs.
+A curated list of useful applications and software you can download and install on your devices: desktop programs, mobile apps, and powerful tools. Perfect for productivity, creativity, and enhanced functionality.
 
 <b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
 
