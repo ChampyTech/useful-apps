@@ -5,7 +5,7 @@
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
 </p>
 
-A curated list of useful applications and software you can download and install on your devices: desktop programs, mobile apps, and powerful tools. Perfect for productivity, creativity, and enhanced functionality.
+A curated list of useful applications and software you can download and install on your devices: desktop programs, mobile apps, and powerful tools.
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
