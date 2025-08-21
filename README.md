@@ -124,8 +124,6 @@ A curated list of useful applications and software you can download and install 
 - [Knowunity](https://www.knowunity.com/): Student learning platform with study materials and peer collaboration
 - [Photomath](https://photomath.com/): Camera calculator solving math problems with step-by-step solutions
 - [DeepL](https://www.deepl.com/): AI-powered translation service with superior accuracy and context
-
-### Science
 - [Periodic Table](https://play.google.com/store/apps/details?id=com.yaraethar.periodictable): Interactive chemistry reference with element properties and information
 - [Periodic Table 2025](https://play.google.com/store/apps/details?id=mendeleev.redlime): Comprehensive chemistry app with detailed element data and trends
 - [Physics Toolbox Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite): Collection of physics measurement tools using device sensors
