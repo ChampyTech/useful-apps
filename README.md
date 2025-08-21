@@ -12,7 +12,7 @@ A curated list of useful applications and software you can download and install 
 <b>Quick navigation</b>: Use <b>Ctrl+F</b> (Windows/Linux/Chromebook) or <b>⌘+F</b> (Mac) to search through the collection and find exactly what you need.
 
 > [!NOTE]
-> This repository only includes downloadable applications and software that need to be installed on your device. For browser-based tools and websites that work instantly without downloads, check out [A Curated List of Useful Websites](https://champytech.github.io/useful-websites/).
+> This repository only includes downloadable applications and software that need to be installed on your device. For browser-based tools and websites that work instantly without downloads, check out [A Curated List of Useful Websites](https://github.com/ChampyTech/useful-websites).
 
 ## 🙏 Contributing
 
