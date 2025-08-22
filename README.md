@@ -170,6 +170,7 @@ A curated list of useful applications and software you can download and install 
 - [Goodreads](https://www.goodreads.com/): Book recommendation platform with reviews, ratings, and reading lists
 - [Instapaper](https://www.instapaper.com/): Read-later app for saving articles and web content for offline reading
 - [Omnivore](https://omnivore.app/): Read-later app for saving articles with highlighting and note-taking
+- [Raindrop.io](https://raindrop.io/): Visual bookmark manager for organizing and accessing saved web content
 
 ## 🙏 Contributing
 
